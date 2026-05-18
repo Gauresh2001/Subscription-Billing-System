@@ -2,10 +2,11 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/subscription-billing-system?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-username/subscription-billing-system?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/subscription-billing-system?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/subscription-billing-system?style=for-the-badge)
+![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge\&logo=react)
+![Spring Boot](https://img.shields.io/badge/Backend-SpringBoot-green?style=for-the-badge\&logo=springboot)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge\&logo=mysql)
+![Java](https://img.shields.io/badge/Language-Java-red?style=for-the-badge\&logo=openjdk)
+
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 ### 💳 Modern Full-Stack Subscription & Billing Management Platform
